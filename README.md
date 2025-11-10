@@ -79,6 +79,3 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
 - [yarn](https://yarnpkg.com/)
-
----
-
