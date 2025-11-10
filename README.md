@@ -81,4 +81,4 @@ Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information
 - [yarn](https://yarnpkg.com/)
 
 ---
-> _Made with 96.6% JavaScript, 1.8% HTML, and 1.6% CS
+
